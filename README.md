@@ -97,9 +97,15 @@ marketing-campaign-analysis/
 │ ├── marketing_data.csv
 │ └── data_dictionary.xlsx
 │
-├── notebooks/
+├── Notebooks/
 │ └── marketing_campaign_analysis.ipynb
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+├── visuals/
+  ├── output
+  └── output1
+  └── output2
+  └── output3
+  └── output4
+  └── output5
+  └── output6
